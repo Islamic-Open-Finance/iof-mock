@@ -1,21 +1,21 @@
-# IOF Mock Server
+# IOF™ Mock Server
 
-Mock server for the Islamic Open Finance (IOF) Platform API, perfect for development and testing.
+Mock server for the Islamic Open Finance™ (IOF) Platform API, perfect for development and testing.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://github.com/Islamic-Open-Finance/iof-mock)
 
 ## Features
 
-✅ **Complete API Mocking** - All 29 Rails, 227+ endpoints
-✅ **Realistic Data** - Sample contracts, cards, transactions
-✅ **Shariah Compliance** - Validates against Shariah rules
-✅ **Stateful Mode** - Persist data across requests
-✅ **Request Validation** - Validates all requests against OpenAPI spec
-✅ **Dynamic Responses** - Parameterized responses based on input
-✅ **Webhook Simulation** - Trigger webhook events
-✅ **Error Scenarios** - Simulate errors, rate limits, timeouts
-✅ **No Dependencies** - Runs standalone via Docker
+- ✅ **Complete API Mocking** - All 29 Rails, 227+ endpoints
+- ✅ **Realistic Data** - Sample contracts, cards, transactions
+- ✅ **Shariah Compliance** - Validates against Shariah rules
+- ✅ **Stateful Mode** - Persist data across requests
+- ✅ **Request Validation** - Validates all requests against OpenAPI spec
+- ✅ **Dynamic Responses** - Parameterized responses based on input
+- ✅ **Webhook Simulation** - Trigger webhook events
+- ✅ **Error Scenarios** - Simulate errors, rate limits, timeouts
+- ✅ **No Dependencies** - Runs standalone via Docker
 
 ## Quick Start
 
