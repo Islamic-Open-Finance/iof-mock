@@ -2,8 +2,8 @@
 
 Mock server for the Islamic Open Finance (IOF) Platform API, perfect for development and testing.
 
-[![Docker](https://img.shields.io/docker/v/iof/mock-server?label=docker)](https://hub.docker.com/r/iof/mock-server)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://github.com/Islamic-Open-Finance/iof-mock)
 
 ## Features
 
