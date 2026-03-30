@@ -1,0 +1,27 @@
+# Service-level .dockerignore
+# Applied when building from service directory context
+# Root .dockerignore applies when building from repo root
+
+node_modules
+.git
+*.md
+*.test.ts
+*.spec.ts
+__tests__
+__mocks__
+coverage
+.env
+.env.*
+!.env.production
+*.tsbuildinfo
+.turbo
+dist
+.next
+out
+src/**/*.map
+vitest.config.*
+jest.config.*
+tsconfig.tsbuildinfo
+.eslintrc*
+.prettierrc*
+
