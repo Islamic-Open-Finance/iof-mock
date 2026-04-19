@@ -1,6 +1,19 @@
 # @iof/obp-demo-server
 
-Open Banking Protocol (OBP) sandbox demo server for Islamic Open Finance. Provides an in-memory OBP v5.1.0-compatible API for development and testing without requiring an external OBP server.
+> **⚠️ ARCHIVED** — This repository is archived and read-only. The OBP demo server has moved into the main IOF platform at `services/obp-demo-server/`. New issues, PRs, and contributions go to the main app repo. See the [Islamic Open Finance™ org profile](https://github.com/Islamic-Open-Finance) for the active repo list.
+
+Open Banking Protocol (OBP) sandbox demo server for Islamic Open Finance™. Provides an in-memory OBP v5.1.0-compatible API for development and testing without requiring an external OBP server.
+
+## About Islamic Open Finance™
+
+IOF is composed from **10 native domain engines** over a single double-entry ledger, exposing **109 Shariah-native rails across 19 categories** (142+ endpoints). Two engines are the platform's defensible moats:
+
+- **Settlement Engine** — 24×7×365 DvP/FOP/RVP/DFP, AAOIFI SS-1/8/10/17/21/30 enforced, ribawi-pair netting. Reclaims **60–140 bps** per corridor.
+- **Evidence Engine** — signed compliance pack on every trade, 47/54 controls across SOC 2/ISO 27001/AAOIFI/GDPR/PSD2/IFSB/ISO 20022. Reclaims **30–55 bps** on audit + re-papering.
+
+Combined: **100–195 bps** of Islamic-finance friction reclaimed per corridor.
+
+OBP is one of several backend connectors IOF supports (Phase 1: dev/sandbox; Phase 2: real cores Temenos/Finastra/Mambu; Phase 3: OBP optional). This demo server is for the Phase-1 reference path.
 
 ## Tech Stack
 
